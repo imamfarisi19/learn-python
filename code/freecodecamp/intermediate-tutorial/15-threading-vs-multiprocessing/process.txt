@@ -1,0 +1,13 @@
+Process: An instance of a program (e.g a Pthon intrepeter) 
+
++ Takes advantage of multiple CPUs and cores
++ Separate memory space -> Memory is not shared between proceesses
++ Great for CPU-bound processing 
++ New process is started indepently from other processes 
++ One GIL for each process -> avoids GIL limitation 
+
+- Heavyweight 
+- starting a process is slower than starting a thread. 
+- More memory 
+- IPC (inter-process communication) is more complicated 
+
