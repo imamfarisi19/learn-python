@@ -5,3 +5,5 @@ print("Keys of iris_dataset: \n{}".format(iris_dataset.keys()))
 
 print(iris_dataset['DESCR'][:193] + "\n...")
 
+print("Target names: {}".format(iris_dataset['target_names'])) 
+
