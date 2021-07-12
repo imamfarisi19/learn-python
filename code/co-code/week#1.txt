@@ -1,0 +1,29 @@
+start : 
+Today 
+1. from hello world 
+2. variable 
+3. arithmetic operation 
+4. if statement 
+5. function 
+6. make a simple calculator 
+
+next week
+7. triangle of (*)  
+8. more intermediate calculator
+
+next week 
+9.tuples, set, dictionary etc data types 
+10. madlibs games 
+11. try discustion about machine learning 
+
+next week 
+12. 
+13. 
+
+-------------- 
+
+4 - 5 weeks -> fundamentals and whaterver necessary to learn, to get us to machine learning implementation.
+after 5 weeks --> try machine learning.
+
+goal : implement machine learning (simple) --> (complex) 
+
