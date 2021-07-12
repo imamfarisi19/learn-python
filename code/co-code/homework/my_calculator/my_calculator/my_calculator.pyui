@@ -1,0 +1,91 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{82, 44}, {311, 54}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "1748D928-7938-4514-A9D5-7153FBB785FE",
+          "flex" : "",
+          "corner_radius" : 8,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{126, 122}, {200, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 1,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "action" : "on_textfield",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "text" : "",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "text_field",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{110, 134}, {261, 46}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "2D9F6D3E-2DE7-44AF-9AD3-29D8947CC43D",
+          "corner_radius" : 8,
+          "background_color" : "RGBA(0.826087,0.942029,1.000000,1.000000)",
+          "frame" : "{{151, 122}, {150, 32}}",
+          "border_color" : "RGBA(0.127358,0.127358,0.127358,1.000000)",
+          "border_width" : 1,
+          "alignment" : "center",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "text" : "",
+          "font_name" : "<System>",
+          "class" : "Label",
+          "name" : "text_label",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{110, 241}, {253, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "C590EC19-79D1-4428-B11A-00EBBA55B898",
+          "flex" : "WH",
+          "corner_radius" : 8,
+          "background_color" : "RGBA(1.000000,0.812500,0.937500,1.000000)",
+          "frame" : "{{192, 162}, {80, 32}}",
+          "tint_color" : "RGBA(0.080189,0.080189,0.080189,1.000000)",
+          "border_width" : 1,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "guide\/使用方法",
+          "action" : "on_button",
+          "font_bold" : false,
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {463, 355}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,0.791667,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
