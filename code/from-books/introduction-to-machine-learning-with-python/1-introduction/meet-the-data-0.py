@@ -11,3 +11,5 @@ print("Feature names: \n{}".format(iris_dataset['feature_names']))
 
 print("Type of data: {}".format(type(iris_dataset['data']))) 
 
+print("Shape of data: {}".format(iris_dataset['data'].shape)) 
+
