@@ -13,3 +13,5 @@ print("Type of data: {}".format(type(iris_dataset['data'])))
 
 print("Shape of data: {}".format(iris_dataset['data'].shape)) 
 
+print("First five columns of data:\n{}".format(iris_dataset['data'][:5])) 
+
