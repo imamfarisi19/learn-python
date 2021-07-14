@@ -19,3 +19,4 @@ print("Type of target: {}".format(type(iris_dataset['target'])))
 
 print("Shape of target: {}".format(iris_dataset['target'].shape))
 
+print("Target:\n{}".format(iris_dataset['target']))
